@@ -1,3 +1,10 @@
+note for anyone reads or access my own tool 
+- the code is original 
+- any names used are pun intended -nothing more - 
+- any codes or methods or anything at all are all original , and not replicated or mimic or anything drawen from or used  or inspired by anyone that shares the same name or a name close to it , or even online figure of modding or hacking or anything of anything aat all or copied from other tools or anything even if they look close, they are not , 
+- thte code i use is intended for my own game only , and only this , and i am the one who developed my own game, and noone helped, and i give myself full permsisions to do whatever i want to do inside that game .
+- all the names and referneces are just a joke, or pun to those who mod the same , or create cheates.
+
 # Introduction
 ![GitHub](https://img.shields.io/github/license/LGLTeam/Android-Mod-Menu?style=flat-square)
 
